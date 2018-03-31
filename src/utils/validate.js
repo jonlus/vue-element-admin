@@ -1,5 +1,7 @@
 /**
  * Created by jiachenpan on 16/11/18.
+ *
+ * fork by benedict
  */
 
 export function isvalidUsername(str) {
