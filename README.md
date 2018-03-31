@@ -20,7 +20,7 @@
   </a>
 </p>
 
-English | [简体中文](./README.zh-CN.md)
+English | [分支简体中文](./README.zh-CN.md)
 
 ## Introduction
 
